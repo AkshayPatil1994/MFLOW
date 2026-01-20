@@ -108,7 +108,7 @@ def run_quick_demo(use_gpu=False, device='auto', args=None):
         print("Quick demo complete...")
         return True, model, data
     except Exception as e:
-        print(f"✗ Error in quick demo: {e}...")
+        print(f"Error in quick demo: {e}...")
         import traceback
         traceback.print_exc()
         return False, None, None
