@@ -23,4 +23,5 @@ Akshay & Clara
 
 Funding Notice:
 This work is part of the Refmap project funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No 101004132.
-![Refmap Logo](refmap_logo.png)
+
+<img src="refmap_logo.png" alt="Refmap logo" width="200"/>
